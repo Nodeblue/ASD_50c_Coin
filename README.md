@@ -63,7 +63,7 @@ https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-comme
 
 ## Bottom Symbol Cipher
 Found on the inner ring, bottom centre. 6 Symbols  
-Note: These symbols are found at the base of the ([ASD website](https://www.asd.gov.au/)) as their logo. [See cre8ive branding work here](https://www.cre8ive.com.au/work/asd/). Thanks @Leiton85.
+Note: These symbols are found at the base of the [ASD website](https://www.asd.gov.au/) as their logo. [See cre8ive branding work here](https://www.cre8ive.com.au/work/asd/). Thanks @Leiton85.
 
 ![6 Symbols](/Cipher.png)
 
