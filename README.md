@@ -63,6 +63,8 @@ Found on the inner ring, bottom centre.
 # Back
 
 ![50c Coin Back](/ASD-50c-BACK-Web-tx.png)
+
 Found below the letters on the back.
+
 ## Letter Symbol Cipher
 ![6 Symbols](/CipherBack.png)
