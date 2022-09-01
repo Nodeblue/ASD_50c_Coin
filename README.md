@@ -62,5 +62,4 @@ https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-comme
 
 # Back
 
-
-
+![50c Coin Back](/ASD-50c-BACK-Web-tx.png)
