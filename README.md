@@ -1,4 +1,4 @@
-# Australian Signals Directorate (ASD) 50c Coin
+# Australian Signals Directorate (ASD) 50c Australian Coin
 
 ![50c Coin Front](/50cASD.png)
 
@@ -7,17 +7,17 @@
 **D**VZIV*Z*FWZX**R***L***FHRM**X*L*MX**VKG***ZM*W**NV***G***RXF***O*L**FHR***M***V**C*V***X**F**GR***L*M  
 **UR***M***W***X***O**Z**I***R*G*B***R**M7**D***R***W**G*S***C**5**W***V*K**G**S  
 
-### Bolded:
+### Bolded Characters:
 DRFHRMVKGNVRXFFHRVXGR  
 URWOIRDWCWG  
-### Striped:
+### Striped Characters:
 ZLLZMGOMVLMXRBRSV
 
 ## Inner Ring
 
 B**GOAMV**OE**I**A**TS**IRL**NGT**T**NE**O**GRER**GXNT**EAI**F**C**ECA**IE**O**AL**EK**FN**R**5L**WE**FCHDE**EA**EE**E**7N**MD**RX**X**5**    
 
-### Bolded:
+### Bolded Characters:
 GOAMVITSNGTNEGREREAICIEALFN5LFCHDEEE7NRX5
 
 ## Lower Right Text
