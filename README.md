@@ -65,7 +65,7 @@ https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-comme
 Found on the inner ring, bottom centre. 6 Symbols  
 Note: These symbols are found at the base of the ASD website as their logo ([See here](https://www.cre8ive.com.au/work/asd/)). Thanks @Leiton85.
 
-![6 Symbols](/CipherBack.png)
+![6 Symbols](/Cipher.png)
 
 # Back
 
