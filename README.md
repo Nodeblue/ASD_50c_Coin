@@ -1,9 +1,10 @@
 # Australian Signals Directorate (ASD) 50c Australian Coin
-Get a jump start on deciphering the code with the text of the coin.  
+Get a jump start on deciphering the code with the text on the coin. This is spoiler free and does not contain the solution. 
 https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-commemorative-coin  
-![50c Coin Front](/50cASD.png)
 
 # Front
+
+![50c Coin Front](/50cASD.png)
 
 ## Outer Ring 
 ### A - Starting from left side at striped bullet
