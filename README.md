@@ -57,9 +57,12 @@ https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-comme
 > 1108B  
 
 ## Bottom Symbol Cipher
-
+Found on the inner ring, bottom centre.
 ![6 Symbols](/Cipher.png)
 
 # Back
 
 ![50c Coin Back](/ASD-50c-BACK-Web-tx.png)
+Found below the letters on the back.
+## Letter Symbol Cipher
+![6 Symbols](/CipherBack.png)
