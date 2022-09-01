@@ -54,8 +54,6 @@ https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-comme
 > 206D6BE383  
 > 1108B  
 
-
-
 ## Bottom Symbol Cipher
 
 ![6 Symbols](/Cipher.png)
