@@ -1,5 +1,6 @@
 # Australian Signals Directorate (ASD) 50c Australian Coin
-Get a jump start on deciphering the code with the text on the coin. This is spoiler free and does not contain the solution. 
+Get a jump start on deciphering the code with the text on the coin. This is spoiler free and does not contain the solution however if you need assistance there are hints at the bottom.  
+  
 https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-commemorative-coin  
 
 # Front
@@ -76,3 +77,8 @@ Found below the letters on the back.
 
 ## Letter Symbol Cipher
 ![6 Symbols](/CipherBack.png)
+
+# Hints
+
+If you need assistance without being given the answer, here is some tips to get you started.  
+[Hint 01 - Getting Started](Hints/Hint01.md)
