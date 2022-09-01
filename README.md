@@ -3,16 +3,17 @@
 ![50c Coin Front](/50cASD.png)
 
 ## Outer Ring
-### Top
+
 **D**VZIV*Z*FWZX**R***L***FHRM**X*L*MX**VKG***ZM*W**NV***G***RXF***O*L**FHR***M***V**C*V***X**F**GR***L*M  
-### Bottom
 **UR***M***W***X***O**Z**I***R*G*B***R**M7**D***R***W**G*S***C**5**W***V*K**G**S  
 
 ### Bolded Characters:
 DRFHRMVKGNVRXFFHRVXGR  
 URWOIRDWCWG  
+
 ### Striped Characters:
-ZLLZMGOMVLMXRBRSV
+ZLLZMGOMVL  
+MXRBRSV
 
 ## Inner Ring
 
