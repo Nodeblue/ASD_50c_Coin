@@ -3,6 +3,8 @@ Get a jump start on deciphering the code with the text of the coin.
 https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-commemorative-coin  
 ![50c Coin Front](/50cASD.png)
 
+# Front
+
 ## Outer Ring 
 ### A - Starting from left side at striped bullet
 > **D**VZIV*Z*FWZX**R***L***FHRM**X*L*MX**VKG***ZM*W**NV***G***RXF***O*L**FHR***M***V**C*V***X**F**GR***L*M  
@@ -57,3 +59,8 @@ https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-comme
 ## Bottom Symbol Cipher
 
 ![6 Symbols](/Cipher.png)
+
+# Back
+
+
+
