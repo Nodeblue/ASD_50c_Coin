@@ -1,5 +1,7 @@
 # Australian Signals Directorate (ASD) 50c Coin
 
+![50c Coin Front](/50cASD.png)
+
 ## Outer Ring
 
 **D**VZIV*Z*FWZX**R***L***FHRM**X*L*MX**VKG***ZM*W**NV***G***RXF***O*L**FHR***M***V**C*V***X**F**GR***L*M  
@@ -45,3 +47,5 @@ D1F73B331185A33
 
 
 ## Symbol Cipher
+
+![6 Symbols](/Cipher.png)
