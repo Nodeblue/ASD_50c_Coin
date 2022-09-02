@@ -2,8 +2,9 @@
 Get a jump start on deciphering the code with the text on the coin. This is spoiler free and does not contain the solution however if you need assistance there are hints at the bottom.  
   
 https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-commemorative-coin  
+Update: ASD also have an Accessible text version on their website linked above.
 
-# Front
+# Front (Tails)
 
 ![50c Coin Front](/50cASD.png)
 
@@ -69,7 +70,7 @@ Note: These symbols are found at the base of the [ASD website](https://www.asd.g
 
 ![6 Symbols](/Cipher.png)
 
-# Back
+# Back (Heads)
 
 ![50c Coin Back](/ASD-50c-BACK-Web-tx.png)
 
