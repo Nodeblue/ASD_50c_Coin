@@ -15,3 +15,6 @@ Still stuck after the first hint? Here is an additional hint
   <summary>2nd Hint</summary> 
   The raised dots are in use all around us. Maybe they hold the key to the 'order' of things. 
 </details>
+
+Need more?  
+[Hint 02 - Cipher](Hints/Hint02.md)
