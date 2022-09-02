@@ -17,4 +17,4 @@ Still stuck after the first hint? Here is an additional hint
 </details>
 
 Need more?  
-[Hint 02 - Cipher](Hints/Hint02.md)
+[Hint 02 - Cipher](Hint02.md)
